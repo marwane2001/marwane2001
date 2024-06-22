@@ -1,6 +1,6 @@
 # Hi There👋, I'm Marwane Skaro.
 
-**`Who I am ?`**
+**`Who am i ?`**
 
 <h1 align="center">I'm a Data Engineering Student</h1>
 
