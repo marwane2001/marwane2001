@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ML , DEEP LEARNING  , NLP ..**
 
-- 🤝 I’m looking to an internship on **Data or Development Field**
+- 🤝 I’m looking for an internship in **Data or Development Field**
   
 **`Connect With Me:`**
 
