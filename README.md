@@ -2,11 +2,10 @@
 
 **`Who am I?`**
 
-<h1 align="center">I'm a Data Engineering Student</h1>
+<h1 align="center">I'm a Software Engineering Student</h1>
 
 - 🌱 I’m currently learning **ML, DEEP LEARNING, NLP...**
 
-- 🤝 I’m looking for an internship in **Data or Development Field**
   
 **`Connect With Me:`**
 
