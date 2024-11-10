@@ -59,6 +59,3 @@
    </a>
 </p>
 
-<p align="center">
-   <img width="50%" src="cowboy.gif" alt="life is life and the end of the cycle of life.">
-</p>
